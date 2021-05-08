@@ -13,9 +13,9 @@ Im a Information Systems Enginner working with software industry since 2012.
 
 **:computer: Other important techs:** Mysql - MongoDB, Docker - Gitlab - Digital Ocean, RDF/S - OWL - SHACL -SWRL -Stardog - TopQuadrant - GraphDB - Apache Jena - RDF4J, OPC-UA - RAMI 4.0.
 
-**:heart: Hobbies:** Traveling, Runnig, Series.
+**:heart: Hobbies:** Traveling, Running, Series.
 
-**:mailbox_with_mail: Get in touch :** <a href="https://www.linkedin.com/in/david-bento-pereira/">Linkedin</a> 
+**:mailbox_with_mail: Get in touch :** <a href="https://www.linkedin.com/in/martinezjuanagustin/">Linkedin</a> 
 <!--
 **mrtnzagustin/mrtnzagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
