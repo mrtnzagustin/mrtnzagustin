@@ -2,18 +2,18 @@
 
 ![Agustin's github stats](https://github-readme-stats.vercel.app/api?username=mrtnzagustin&count_private=true&show_icons=true&theme=vue)
 
-My name is Juan Agustin Martinez, but you can call me Agustin, Agu or Agus.
-Im a Information Systems Enginner working with software industry since 2012.
+My name is Juan Agustin Martinez, but you can call me Agustin, Agu, or Agus.
+Im an Information Systems Engineer working in the software industry since 2012.
 
-**:gem: Job:** Project Manager, Fullstack Sofware Developer, Data Scientist, Professor, Consultor and I+D Researcher with Industry 4.0/Big Data/Artificial Intelligence.
+**:gem: Job:** Project Manager, Fullstack and Graph Developer, Jr Data Scientist, Professor, Consultor and I+D Researcher with Industry 4.0/Big Data/Artificial Intelligence.
 
-**:school_satchel: Learning:** Natural Language Processing.
+**:school_satchel: Learning:** Natural Language Processing, Generative AI for RAG solutions.
 
 **:computer: Languages:** PHP, Javascript & Typescript, Python, Java, C/C++.
 
-**:computer: Frameworks:** Symfony, API Platform, Node.js with Express/Sails.js/TypeORM, Vue.js and Nuxt.js, Type ORM, Django and Hug, Arduino.
+**:computer: Frameworks:** Symfony, API Platform, Node.js with Express/Sails.js/TypeORM, Vue.js and Nuxt.js, Type ORM, Django, FastAPI, Hug, Flask, Arduino, among others.
 
-**:computer: Other important techs:** Mysql - MongoDB, Docker - Gitlab - Digital Ocean, RDF/S - OWL - SHACL -SWRL -Stardog - TopQuadrant - GraphDB - Apache Jena - RDF4J, OPC-UA - RAMI 4.0.
+**:computer: Other important techs:** Mysql - MongoDB, Docker - Gitlab - Digital Ocean, Neo4j - Cypher, RDF/S - OWL - SHACL -SWRL -Stardog - TopQuadrant - GraphDB - Apache Jena - RDF4J, OPC-UA - RAMI 4.0.
 
 **:heart: Hobbies:** Traveling, Running, Series.
 
