@@ -1,34 +1,48 @@
 ### Hi there 👋
 
-![Agustin's github stats](https://github-readme-stats.vercel.app/api?username=mrtnzagustin&count_private=true&show_icons=true&theme=vue)
+I'm Juan Agustin Martinez — you can call me Agustin, Agu, or Agus.
 
-My name is Juan Agustin Martinez, but you can call me Agustin, Agu, or Agus.
-Im an Information Systems Engineer working in the software industry since 2012.
+I’m an **Information Systems Engineer** and **Head of AI Engineering / AI Strategist** with 10+ years of experience building software systems across AI, Knowledge Graphs, Semantic Web, NLP, and full-stack development.
 
-**:gem: Job:** Project Manager, Fullstack and Graph Developer, Jr Data Scientist, Professor, Consultor and I+D Researcher with Industry 4.0/Big Data/Artificial Intelligence.
+Today, my work is centered on **GenAI**, **RAG / GraphRAG**, **Knowledge Graphs**, and **AI adoption strategy** — bridging business goals, architecture, and technical delivery.
 
-**:school_satchel: Learning:** Natural Language Processing, Generative AI for RAG solutions.
+- 🔭 **Current focus:** Head of AI at Folder IT and co-directing the AI Lab
+- 🧠 **Specialties:** Knowledge Graphs, GenAI, RAG/GraphRAG, NLP, semantic technologies, AI reasoning, technical strategy
+- 🏗️ **What I build:** AI-powered products, graph-based systems, semantic search, rule engines, and scalable backend architectures
+- 👥 **What I also do:** Technical leadership, AI roadmap definition, mentoring, technical screening, and cross-functional AI adoption
+- 🎓 **Also:** University professor and researcher in Industry 4.0, industrial data integration, and semantic technologies
 
-**:computer: Languages:** PHP, Javascript & Typescript, Python, Java, C/C++.
+### Tech I work with
 
-**:computer: Frameworks:** Symfony, API Platform, Node.js with Express/Sails.js/TypeORM, Vue.js and Nuxt.js, Type ORM, Django, FastAPI, Hug, Flask, Arduino, among others.
+**AI / Data / Search**  
+Python, LangChain, Haystack, Azure OpenAI, AWS Bedrock, OpenSearch, Elasticsearch, NLP tooling, LLM evaluation and experimentation
 
-**:computer: Other important techs:** Mysql - MongoDB, Docker - Gitlab - Digital Ocean, Neo4j - Cypher, RDF/S - OWL - SHACL -SWRL -Stardog - TopQuadrant - GraphDB - Apache Jena - RDF4J, OPC-UA - RAMI 4.0.
+**Knowledge Graphs / Semantic Web**  
+Neo4j, Cypher, SPARQL, RDF, RDF/S, OWL, SHACL, SWRL, GraphDB, Stardog, Apache Jena, RDF4J
 
-**:heart: Hobbies:** Traveling, Running, Series.
+**Backend / Platform**  
+Java, Spring Boot, TypeScript, JavaScript, PHP, FastAPI, Flask, Node.js, Express, Sails.js, REST APIs, Kafka
 
-**:mailbox_with_mail: Get in touch :** <a href="https://www.linkedin.com/in/martinezjuanagustin/">Linkedin</a> 
-<!--
-**mrtnzagustin/mrtnzagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud / DevOps**  
+Docker, Kubernetes, OpenShift, AWS EKS, Azure, AWS, GCP, GitHub, GitLab
 
-Here are some ideas to get you started:
+**Frontend**  
+Vue.js, Nuxt.js, React, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few things about me
+
+- 📚 I enjoy turning complex domains into usable AI systems
+- 🧩 I’ve worked on solutions for government, oil & gas, laboratories, R&D, and enterprise environments
+- 🌱 I’m especially interested in production-grade GenAI systems and graph-powered reasoning
+- 🛠️ I also built an open-source library for Sails.js: `sails-hook-api-utils`
+
+### Selected extras
+
+- 🏅 Neo4j Certified Professional
+- 🏅 Neo4j Graph Data Science Certification
+- 📝 Author / co-author of publications on semantic technologies and ontology-based systems
+- 🎤 Professor in Industry 4.0 and Industrial Data Integration Technologies
+
+### Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/martinezjuanagustin/)
