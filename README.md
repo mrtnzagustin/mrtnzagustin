@@ -23,6 +23,8 @@ Python and FastAPI for services, Neo4j and Cypher for graph retrieval, RDF/OWL a
 ## Writing and teaching
 
 - [Spec Kit: Reducing the Gap Between What We Ask and What AI Builds](https://folderit.net/spec-kit-reducing-the-gap-between-what-we-ask-and-what-ai-builds/) — How engineering teams can turn requirements into specifications, implementation plans, and reviewable tasks with GitHub Spec Kit.
+- [From writing code to managing Agents](https://www.linkedin.com/pulse/from-writing-code-managing-agents-juan-agust%C3%ADn-mart%C3%ADnez-tih7f/) — How working with coding agents changes software development, hiring, and engineering education.
+- [Micro-switching, operational mode, and AI-native engineers](https://www.linkedin.com/pulse/micro-switching-operational-mode-ai-native-engineers-mart%C3%ADnez-9kaif/) — How technical leaders can preserve context as they shift between tasks and coordinate people and agents.
 - [Knowledge Graphs and Generative AI](https://folderit.net/knowledge-graphs-and-generative-ai/) — How to use a semantic layer and Cypher in a RAG system.
 - [Semantic document search in Signar](https://revistas.unlp.edu.ar/JAIIO/article/view/18429) — Co-authored paper on applying semantic technologies to document retrieval (JAIIO, 2022).
 
