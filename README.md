@@ -2,12 +2,13 @@
 
 **AI Systems & Knowledge Graph Architect**
 
-I design and build enterprise AI systems with knowledge graphs, GraphRAG, and agent workflows. I focus on retrieval that respects source permissions, answers with traceable citations, and evaluations that reveal where a system fails. I bring 12+ years of software engineering experience across data platforms, semantic systems, and full-stack products.
+I design and build enterprise AI systems with knowledge graphs, GraphRAG, and agent workflows. I focus on retrieval that respects source permissions, answers with traceable citations, and evaluations that reveal where a system fails. I bring 14 years of software engineering experience across data platforms, semantic systems, and full-stack products.
 
 ## Selected work
 
 - **Berkeley Research Group · Associate Director, Knowledge Graph Engineer** — Led work on the knowledge and reasoning layer of an enterprise AI platform. Designed how the platform retrieves from document repositories and structured data, respects source access permissions, and traces citations back to evidence. Worked on LLM evaluation and tracing across retrieval, tool calls, and answer generation.
-- **Folder IT · Head of AI and AI Lab Co-Director** — Led the design of a modular AI assistant platform with GraphRAG, multi-agent orchestration, natural-language queries over graph and relational data, and an evaluation harness for retrieval and LLM workflows. Set engineering standards and guided teams from technical discovery through delivery.
+- **Folder IT · Head of AI and AI Lab Co-Director** — Led the design of a modular AI assistant platform with GraphRAG, multi-agent orchestration, natural-language queries over graph and relational data, and an evaluation harness for retrieval and LLM workflows. Set engineering standards and guided teams from technical discovery through delivery. Also built a Neo4j knowledge layer for an enterprise R&D platform, integrating APIs, SQL databases, and Kafka events for semantic search and domain Q&A.
+- **Cibic Laboratories · Ontology and Knowledge Graph Specialist** — Designed an OWL/RDF ontology and configurable reasoning rules for clinical laboratory validation. Delivered APIs to retrieve the validation results.
 
 ## Featured repositories
 
