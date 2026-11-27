@@ -1,48 +1,29 @@
-### Hi there 👋
+# Juan Agustín Martínez
 
-I'm Juan Agustin Martinez — you can call me Agustin, Agu, or Agus.
+**AI Systems & Knowledge Graph Architect**
 
-I’m an **Information Systems Engineer** and **Head of AI Engineering / AI Strategist** with 10+ years of experience building software systems across AI, Knowledge Graphs, Semantic Web, NLP, and full-stack development.
+I design and build enterprise AI systems with knowledge graphs, GraphRAG, and agent workflows. I focus on retrieval that respects source permissions, answers with traceable citations, and evaluations that reveal where a system fails. I bring 12+ years of software engineering experience across data platforms, semantic systems, and full-stack products.
 
-Today, my work is centered on **GenAI**, **RAG / GraphRAG**, **Knowledge Graphs**, and **AI adoption strategy** — bridging business goals, architecture, and technical delivery.
+## Selected work
 
-- 🔭 **Current focus:** Head of AI at Folder IT and co-directing the AI Lab
-- 🧠 **Specialties:** Knowledge Graphs, GenAI, RAG/GraphRAG, NLP, semantic technologies, AI reasoning, technical strategy
-- 🏗️ **What I build:** AI-powered products, graph-based systems, semantic search, rule engines, and scalable backend architectures
-- 👥 **What I also do:** Technical leadership, AI roadmap definition, mentoring, technical screening, and cross-functional AI adoption
-- 🎓 **Also:** University professor and researcher in Industry 4.0, industrial data integration, and semantic technologies
+- **Berkeley Research Group · Associate Director, Knowledge Graph Engineer** — Led work on the knowledge and reasoning layer of an enterprise AI platform. Designed how the platform retrieves from document repositories and structured data, respects source access permissions, and traces citations back to evidence. Worked on LLM evaluation and tracing across retrieval, tool calls, and answer generation.
+- **Folder IT · Head of AI and AI Lab Co-Director** — Led the design of a modular AI assistant platform with GraphRAG, multi-agent orchestration, natural-language queries over graph and relational data, and an evaluation harness for retrieval and LLM workflows. Set engineering standards and guided teams from technical discovery through delivery.
 
-### Tech I work with
+## Featured repositories
 
-**AI / Data / Search**  
-Python, LangChain, Haystack, Azure OpenAI, AWS Bedrock, OpenSearch, Elasticsearch, NLP tooling, LLM evaluation and experimentation
+- [SNRD KG Harvester](https://github.com/mrtnzagustin/snrd-kg-harvester) — Python CLI that ingests public Argentine research metadata into Neo4j. Supports incremental ingestion, resumable runs, and offline generation of Cypher batches.
+- [Cypher Direction Challenge](https://github.com/mrtnzagustin/cypher-direction-challenge) — Python implementation of a Neo4j community challenge on inferring relationship directions in Cypher queries.
+- [VibeCoding Framework](https://github.com/mrtnzagustin/vibecoding-framework) — Specification-driven template for AI-assisted development. It combines GitHub Spec Kit with pre-commit and CI checks to carry requirements through implementation and verification.
 
-**Knowledge Graphs / Semantic Web**  
-Neo4j, Cypher, SPARQL, RDF, RDF/S, OWL, SHACL, SWRL, GraphDB, Stardog, Apache Jena, RDF4J
+## Tools I use
 
-**Backend / Platform**  
-Java, Spring Boot, TypeScript, JavaScript, PHP, FastAPI, Flask, Node.js, Express, Sails.js, REST APIs, Kafka
+Python and FastAPI for services, Neo4j and Cypher for graph retrieval, RDF/OWL and SHACL for semantic modeling, and OpenSearch for search. For LLM evaluation and tracing, I use Promptfoo, Ragas, and Arize Phoenix.
 
-**Cloud / DevOps**  
-Docker, Kubernetes, OpenShift, AWS EKS, Azure, AWS, GCP, GitHub, GitLab
+## Writing and teaching
 
-**Frontend**  
-Vue.js, Nuxt.js, React, Next.js
+- [Knowledge Graphs and Generative AI](https://folderit.net/knowledge-graphs-and-generative-ai/) — How to use a semantic layer and Cypher in a RAG system.
+- [Semantic document search in Signar](https://revistas.unlp.edu.ar/JAIIO/article/view/18429) — Co-authored paper on applying semantic technologies to document retrieval (JAIIO, 2022).
 
-### A few things about me
+I teach Industry 4.0 and industrial data integration. I hold Neo4j Certified Professional and Graph Data Science certifications.
 
-- 📚 I enjoy turning complex domains into usable AI systems
-- 🧩 I’ve worked on solutions for government, oil & gas, laboratories, R&D, and enterprise environments
-- 🌱 I’m especially interested in production-grade GenAI systems and graph-powered reasoning
-- 🛠️ I also built an open-source library for Sails.js: `sails-hook-api-utils`
-
-### Selected extras
-
-- 🏅 Neo4j Certified Professional
-- 🏅 Neo4j Graph Data Science Certification
-- 📝 Author / co-author of publications on semantic technologies and ontology-based systems
-- 🎤 Professor in Industry 4.0 and Industrial Data Integration Technologies
-
-### Get in touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/martinezjuanagustin/)
+[LinkedIn](https://www.linkedin.com/in/martinezjuanagustin/)
